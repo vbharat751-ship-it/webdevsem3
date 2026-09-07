@@ -1,0 +1,10 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "Web Dev III Unit-1 Lab Assignment using Node.js core modules",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js",
+    "calculator": "node calculator.js"
+  }
+}
